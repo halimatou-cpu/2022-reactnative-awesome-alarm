@@ -23,3 +23,4 @@ inserting items, querying and displaying results, using prepared statements.
 ## 📝 Notes
 
 - [Expo SQLite docs](https://docs.expo.dev/versions/latest/sdk/sqlite/)
+# 2022-reactnative-awesome-alarm
