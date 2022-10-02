@@ -20,6 +20,9 @@ inserting items, querying and displaying results, using prepared statements.
 - Run `yarn` or `npm install`
 - Run `yarn start` or `npm run start` to try it out.
 
+## Adding typescript to the project
+- Run `npm install -D typescript @types/jest @types/react @types/react-native @types/react-test-renderer`
+
 ## 📝 Notes
 
 - [Expo SQLite docs](https://docs.expo.dev/versions/latest/sdk/sqlite/)
